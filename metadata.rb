@@ -1,0 +1,7 @@
+name             'df_rails'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures df_rails'
+long_description 'Installs/Configures df_rails'
+version          '0.1.0'
